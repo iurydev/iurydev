@@ -1,4 +1,4 @@
-<p align="center"><a href="https://iurydev.github.io"><img width="80%" src="./assets/logo-readme-github.png" /></a></p>
+<p align="center"><a href="https://github.com/iurydev"><img width="80%" src="./assets/logo-readme-github.png" /></a></p>
 
 <br>
 
@@ -19,3 +19,24 @@
   
 | <a href="https://github.com/iurydev/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=iurydev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Iury's github stats" /></a> | <a href="https://github.com/iurydev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurydev&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/iurydev/login-app-angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurydev&repo=login-app-angular&theme=radical" />
+</a>
+<a href="https://github.com/iurydev/iurydev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurydev&repo=iurydev&theme=radical" />
+</a>
+
+<br />
+<br />
+
+
+ ##
+ 
+<div align="center"> 
+  <a href = "mailto:iurydev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iury-rodrigues-052082194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
