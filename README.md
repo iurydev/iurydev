@@ -1,16 +1,8 @@
-<p align="center">
-  <a href="https://github.com/iurydev">
-    <img width="80%" src="./assets/logo-readme-github.png" />
-  </a>
-</p>
-
-<br>
-
 <h2 align="center" style="color: white;">Sobre mim 👨‍💻</h2>
 
 <p align="center" style="color: white;">
   Sou graduado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor há mais de 4 anos no mercado, 
-  com experiência em diferentes segmentos — da indústria privada ao setor público. <br>
+  com experiência em diferentes segmentos, da indústria privada ao setor público. <br>
   Nesse período, trabalhei com o desenvolvimento de aplicações web de diferentes portes, desde soluções simples 
   baseadas em WordPress até sistemas de larga escala usando Angular e TypeScript. <br>
   Gosto de aplicar boas práticas como Clean Code, e tenho atenção especial à experiência do usuário, unindo desenvolvimento e design de interfaces (UI/UX).
